@@ -1,6 +1,0 @@
-train: ../data/train/images
-val: ../data/val/images
-
-# class names
-names:
-  0: number_plate
